@@ -1,3 +1,4 @@
+
 public class Q22 {
     public static void main(String[] args) {
         int n1 = 72, n2 = 120, lcm;
@@ -14,3 +15,4 @@ public class Q22 {
         }
     }
 }
+
